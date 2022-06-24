@@ -1,0 +1,70 @@
+hr{
+        
+        
+         
+ 
+ border-color:#C2DED1;
+    
+    border-width: 5px;
+    border-style: none ;
+    border-top-style:dotted;
+    width: 10%;
+    
+   
+   
+ }
+ h1{
+    color:#E9D5CA;
+    font-style:italic ;
+ }
+ h3
+ {
+    color: #E9D5CA;
+ }
+ h2
+ {
+    color: #E9D5CA;
+ }
+
+
+ body{
+   background-color:#1B1F3A;
+   color: #ECDBBA;
+ }
+ 
+
+
+ a:link {
+   color: gold;
+   background-color: transparent;
+   text-decoration: none;
+ }
+ 
+ a:visited {
+   color: skyblue;
+   background-color: transparent;
+   text-decoration: none;
+ }
+ 
+ a:hover {
+   color: white;
+   background-color: transparent;
+   text-decoration: underline;
+ }
+ 
+ a:active {
+   color:lightpink;
+   background-color: transparent;
+   text-decoration: underline;
+ }
+.shadow{
+  background-color:#4B5D67;
+  border-radius: 50%;
+  border-style:solid;
+  border-color: #C4DDFF;
+  border-width: 2px;
+  filter: brightness(120%);
+   filter: contrast(120%);
+   filter: drop-shadow(10px 10px 10px #C4DDFF);
+
+}

@@ -1,0 +1,58 @@
+hr{
+        
+        
+         
+    
+    
+    border-width: 5px;
+    border-style: none ;
+    border-top-style:dotted;
+    width: 10%;
+    
+   
+   
+ }
+ h1{
+    color: #142D4C;
+    font-style:italic ;
+ }
+ h3
+ {
+   color: #142D4C;
+ }
+ h2
+ {
+   color: #142D4C;
+ }
+img{
+    mix-blend-mode: multiply;
+    
+    
+}
+  table{
+ 
+
+ 
+ 
+ border-color:#142D4C;
+ font-size: large;
+ 
+ 
+ 
+ }
+ body{
+   background-color: #C8F2EF;
+   color:#354259;
+   padding-left: 10;
+
+
+   
+   
+ }
+ form{
+    border-color: #51557E;  
+ }
+ p{
+   
+    font-size: large;
+ }
