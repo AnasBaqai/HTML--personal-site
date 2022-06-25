@@ -37,13 +37,13 @@ hr{
  a:link {
    color: gold;
    background-color: transparent;
-   text-decoration: none;
+   text-decoration: underline;
  }
  
  a:visited {
    color: skyblue;
    background-color: transparent;
-   text-decoration: none;
+   text-decoration: underline;
  }
  
  a:hover {
@@ -66,5 +66,17 @@ hr{
   filter: brightness(120%);
    filter: contrast(120%);
    filter: drop-shadow(10px 10px 10px #C4DDFF);
+
+}
+img{
+  width: 50%;
+  height: 50%;
+}
+.profile{
+  height: 300px;
+  width: 300px;
+}
+.psize{
+  font-size: larger;
 
 }
